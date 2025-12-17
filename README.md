@@ -8,6 +8,9 @@ The app detects multiple faces in an uploaded image and highlights:
 
 The application is deployed on Streamlit Cloud and works fully in a browser.
 
+## 🚀 Live Demo  
+👉 **Streamlit App:** [Click Here to Try It!](https://facedetectionusingmtcnn-ud38qeawyot4pnae8lapppu.streamlit.app/)
+
 ---
 🚀 Features
 
@@ -32,8 +35,38 @@ Python
 
 ---
 ▶️ How to Run Locally
-1️⃣ Clone the repository
+
+## 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/face_detection_using_mtcnn.git
 cd face_detection_using_mtcnn
 ```
+2️⃣ Create a virtual environment
+
+```bash
+python -m venv .venv
+```
+Windows
+```bash
+.venv\Scripts\activate
+```
+## 3️⃣ Install dependencies
+```bash
+pip install -r requirements.txt
+```
+4️⃣ Run the Streamlit app
+```bash
+streamlit run face_detector.py
+```
+
+## 🎯 Future Improvements
+
+- Add face confidence scores
+- Face cropping & download option
+- Webcam-based real-time face detection
+
+## 👤 Author
+
+Anand
+Aspiring Data Scientist | Machine Learning Enthusiast
+
