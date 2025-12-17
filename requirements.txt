@@ -1,5 +1,5 @@
 streamlit
 mtcnn
-opencv-python
 tensorflow
 numpy
+opencv-python-headless
