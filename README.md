@@ -1,1 +1,37 @@
-# face_detection_using_mtcnn
+🧑‍🦱 Face Detection Web App using MTCNN & Streamlit
+
+This project is a face detection web application built using MTCNN (Multi-Task Cascaded Convolutional Neural Network) and Streamlit.
+The app detects multiple faces in an uploaded image and highlights:
+
+- Face bounding boxes
+- Facial landmarks (eyes, nose, mouth)
+
+The application is deployed on Streamlit Cloud and works fully in a browser.
+
+---
+🚀 Features
+
+- Upload an image from your system
+- Detect multiple faces using MTCNN
+- Draw bounding boxes around faces
+- Detect facial keypoints:
+    - Left eye
+    - Right eye
+    - Nose
+    - Mouth (left & right)
+ 
+---
+🛠 Tech Stack
+
+Python
+- Streamlit – Web app framework
+- MTCNN – Face detection model
+- TensorFlow – Backend for MTCNN
+- OpenCV (headless) – Image processing
+- NumPy
+
+---
+▶️ How to Run Locally
+1️⃣ Clone the repository
+## git clone https://github.com/your-username/face_detection_using_mtcnn.git
+## cd face_detection_using_mtcnn
