@@ -1,4 +1,4 @@
-🧑‍🦱 Face Detection Web App using MTCNN & Streamlit
+## 🧑‍🦱 Face Detection Web App using MTCNN & Streamlit
 
 This project is a face detection web application built using MTCNN (Multi-Task Cascaded Convolutional Neural Network) and Streamlit.
 The app detects multiple faces in an uploaded image and highlights:
@@ -24,7 +24,7 @@ The application is deployed on Streamlit Cloud and works fully in a browser.
     - Mouth (left & right)
  
 ---
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 Python
 - Streamlit – Web app framework
@@ -68,5 +68,6 @@ streamlit run face_detector.py
 ## 👤 Author
 
 Anand
+
 Aspiring Data Scientist | Machine Learning Enthusiast
 
