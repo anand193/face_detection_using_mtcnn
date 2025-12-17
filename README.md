@@ -33,5 +33,7 @@ Python
 ---
 ▶️ How to Run Locally
 1️⃣ Clone the repository
-## git clone https://github.com/your-username/face_detection_using_mtcnn.git
-## cd face_detection_using_mtcnn
+```bash
+git clone https://github.com/your-username/face_detection_using_mtcnn.git
+cd face_detection_using_mtcnn
+```
