@@ -9,7 +9,7 @@ The app detects multiple faces in an uploaded image and highlights:
 The application is deployed on Streamlit Cloud and works fully in a browser.
 
 ## 🚀 Live Demo  
-👉 **Streamlit App:** [Click Here to Try It!](https://customerchurnpredictionapp-hmcfsvqludm74y9cuvydpj.streamlit.app/)
+👉 **Streamlit App:** [Click Here to Try It!](https://facedetectionusingmtcnn-ud38qeawyot4pnae8lapppu.streamlit.app/)
 
 ---
 🚀 Features
